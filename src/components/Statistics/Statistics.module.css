@@ -1,0 +1,14 @@
+.statlist {
+    list-style: none;
+    display: flex;
+    gap:20px;
+    justify-content: center;
+}
+.stattext{
+    font-size: 24px;
+    font-weight: 500;
+}
+.statvalue{
+    font-size: 30px;
+    color: orangered;
+}
